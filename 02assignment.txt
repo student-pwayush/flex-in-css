@@ -1,0 +1,11 @@
+Explain the role of the following key properties  in the flexbox layout model 
+1 justify-content
+The justify-content property aligns the flexible container's items when the items do not use all available space on the main-axis (horizontally). 
+2 align-items
+The align-items property specifies the default alignment for items inside a flexbox or grid container. In a flexbox container, the flexbox items are aligned on the cross axis, which is vertical by default (opposite of flex-direction)
+3 gap
+The gap property defines the size of the gap between the rows and between the columns in flexbox, grid or multi-column layout.
+4 flex-direction
+The gap property defines the size of the gap between the rows and between the columns in flexbox, grid or multi-column layout.
+5 flex-wrap
+The flex-wrap property allows enabling the control direction in which lines are stacked. It is used to designate a single line or multi-line format to flex items inside the flex container. Property Values: wrap: This property is used to break the flex item into multiples lines
